@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on [AI-Platform](https://github.com/ProjectTech4DevAI/ai-platform)
+- 🔭 I’m currently working on [Datahub](https://github.com/datahub-project/datahub)
 - 🌱 I’m exploring AI, Open Source, and Backend Development
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aviraj-gour) | [Twitter](https://twitter.com/aviraj_gour) | [Hashnode](https://hashnode.com/@avirajsingh)
 
