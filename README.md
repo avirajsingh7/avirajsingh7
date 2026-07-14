@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-
+- 🚀 Currently active on [github.com/aviraj-gour](https://github.com/aviraj-gour)
 - 🔭 I’m currently working on [Datahub](https://github.com/datahub-project/datahub)
 - 🌱 I’m exploring AI, Open Source, and Backend Development
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aviraj-gour) | [Twitter](https://twitter.com/aviraj_gour) | [Hashnode](https://hashnode.com/@avirajsingh)
